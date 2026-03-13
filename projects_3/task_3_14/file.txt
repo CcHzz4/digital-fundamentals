@@ -1,0 +1,21 @@
+10 Apple Green 1.50
+
+20 Banana Yellow 0.80
+
+30 Cherry Red 3.00
+
+40 Date Brown 2.10
+
+50 Eggplant Purple 4.50
+
+60 Elephant_is_a_very_large_animal_that_lives_in_Africa_and_it_is_truly_magnificent_to_behold 99.99
+
+70 Grapes Green 2.50
+
+80 Honey Gold 10.00
+
+90 Iceberg White 1.20
+
+100 Juice Orange 5.00
+
+110 Kiwi Green 3.30
