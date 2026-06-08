@@ -1,6 +1,6 @@
 import pandas as pd
-with open("C:/Users/Даша/Desktop/6/6_0_3.txt", "w") as f:
-  df = pd.read_csv("C:/Users/Даша/Downloads/wild_boars.csv")
+with open("C:/Users/Виктория/Desktop/6/6_0_3.txt", "w") as f:
+  df = pd.read_csv("C:/Users/Виктория/Downloads/wild_boars.csv")
   col = list(df.columns)
   for i in col[2:]:  #прохожу по столбцам
         medi =  df[i].median()
