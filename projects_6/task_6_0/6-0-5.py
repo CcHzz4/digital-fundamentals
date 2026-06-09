@@ -14,3 +14,5 @@ with open("C:/Users/Виктория/Desktop/6/6_0_5.txt", "w") as f:
         print(f"Percentile 75 (Q3):\t{df[i].quantile(0.75):.1f} {parts[-1]}", file=f)
         print(f"Percentile 90:\t{df[i].quantile(0.90):.1f} {parts[-1]}", file=f)
         print(f"Max:\t{df[i].quantile(1.00):.1f} {parts[-1]}\n", file=f)
+
+#проценталь(25 ниже 25)
