@@ -5,3 +5,5 @@ with open("C:/Users/Виктория/Desktop/6/6_0_8.txt", "w") as f:
     sr = df.groupby('gender')['tusk_length_cm'].mean()
     cv = std/sr * 100
     print(f'Coefficient of variations:\n{cv:.1f}', file=f)
+
+#рассчитает значения коэф вариации по параметру длины клыков самцов и самок
