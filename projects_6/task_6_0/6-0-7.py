@@ -14,3 +14,5 @@ with open("C:/Users/Виктория/Desktop/6/6_0_7.txt", "w") as f:
         print(f'{param} variance is {vari:.1f} {parts[-1]}²', file=f)
         print(f'{param} standart deviation is {std:.1f} {parts[-1]}', file=f)
         print(f'{param} coefficient of variation is {cv:.1f}\n', file=f)
+
+#выводит значение дисп(вар), стандарт отклон(стд),коэф вариации(в процентах) по всем стоблац
