@@ -10,3 +10,5 @@ with open("C:/Users/Виктория/Desktop/6/6_0_4.txt", "w") as f:
         else:
             param = parts[0] + ' ' + parts[1]
         print(f'Boars mode {param} is {mod:.2f} {parts[-1]}\n', file=f)
+
+ #мода-самое частое встр значение
