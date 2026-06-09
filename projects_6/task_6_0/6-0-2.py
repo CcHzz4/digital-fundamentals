@@ -2,7 +2,7 @@ import pandas as pd
 with open("C:/Users/Виктория/Desktop/6/6_0_2.txt", "w") as f:
   df = pd.read_csv("C:/Users/Виктория/Downloads/wild_boars.csv")
   col = list(df.columns)
-  for i in col[2:]:  #прохожу по столбцам
+  for i in col[2:]: 
         srznac =  df[i].mean()
         parts = i.split('_')
         if len(parts) == 2:
